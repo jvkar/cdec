@@ -575,7 +575,7 @@ html ,body{
           background-attachment: fixed;
           background-size: 100%;
           background-repeat: no-repeat;
-          height: 100vh;
+          height: 125vh;
       }
       .first-page .header {
           height: auto;
